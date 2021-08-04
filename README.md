@@ -1,2 +1,2 @@
 # demo
-Demo code
+Demo code of Java
